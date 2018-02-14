@@ -36,11 +36,6 @@
       "node": true,
       "browser": true
     },
-    "rules": {
-      "quotes": [
-        2,
-        "single"
-      ]
-    }
+    "rules": {}
   }
 }
